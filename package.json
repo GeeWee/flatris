@@ -15,7 +15,7 @@
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.6",
     "react-redux-layout": "^0.1.0",
-    "react-scripts-ts": "https://github.com/GeeWee/create-react-app-typescript.git",
+    "react-scripts-ts": "latest",
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "styled-components": "^2.2.1",
