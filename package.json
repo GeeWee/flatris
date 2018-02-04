@@ -8,6 +8,8 @@
     "url": "https://github.com/skidding/flatris.git"
   },
   "dependencies": {
+    "babel-loader": "^7.1.2",
+    "babel-preset-react-app": "^3.1.1",
     "lodash": "^4.17.4",
     "prop-types": "^15.6.0",
     "raf": "^3.4.0",
@@ -19,7 +21,8 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0",
     "styled-components": "^2.2.1",
-    "sw-precache": "^5.0.0"
+    "sw-precache": "^5.0.0",
+    "thread-loader": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts-ts start",
